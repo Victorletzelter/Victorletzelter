@@ -1,7 +1,7 @@
 I am a student with a passion for mathematics and its applications, especially in artificial intelligence (deep learning, reinforcement learning, computational statistics, image processing, NLP).
 Open-minded and social, I am interested in other disciplines, especially statistical physics and market finance.
 
-Feel free to discover my favorites projects in my repositories, and contact me.
+Feel free to discover my favorites personnal projects in my repositories, and contact me.
 
 <!---
 Victorletzelter/Victorletzelter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
