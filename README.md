@@ -1,3 +1,5 @@
+Hello, welcome to my github repository ! 
+
 I am a student with a passion for mathematics and its applications, especially in artificial intelligence (deep learning, reinforcement learning, computational statistics, image processing, NLP).
 Open-minded and social, I am interested in other disciplines, especially statistical physics and market finance.
 
