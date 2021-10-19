@@ -1,10 +1,25 @@
-Hello, welcome to my github repository ! 
+# Hello, welcome to my github repository ! 
 
 I am a student with a passion for mathematics and its applications, especially in artificial intelligence (deep learning, reinforcement learning, computational statistics, image processing, NLP).
 Open-minded and social, I am interested in other disciplines, especially statistical physics and market finance.
 
 Feel free to discover my favorites personnal or group projects in my repositories.
-I am open to discussion. 
+I am open to discussion.
+
+## ⚡ Tech Stack
+
+### 🚀 Languages :
+
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+### Deep Learning Frameworks
+
+![Pytorch](https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 <!---
 Victorletzelter/Victorletzelter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
