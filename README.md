@@ -1,7 +1,6 @@
 # Hello, welcome to my github repository ! 
 
-I am a student with a passion for mathematics and its applications, especially in artificial intelligence (deep learning, reinforcement learning, computational statistics, image and time series processing).
-Open-minded and social, I am interested in other disciplines, especially statistical physics, music and market finance.
+Graduated from an MSc. Engineer degree (French « Grandes Écoles ») and a Research Master (MVA), I am passionated for mathematics and its applications, especially in artificial intelligence (deep learning, reinforcement learning, machine perception, computational statistics, vision, sound) and random modelling (computational statistics, state-space models, control theory).
 
 Feel free to discover my favorites personnal or group projects in my repositories.
 I am open to discussion.
