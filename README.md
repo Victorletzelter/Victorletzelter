@@ -1,6 +1,6 @@
 # Hello, welcome to my github repository ! 
 
-Graduated from an MSc. Engineer degree (French « Grandes Écoles ») and a Research Master (MVA), I am passionated for mathematics and its applications, especially in artificial intelligence (deep learning, reinforcement learning, machine perception, computational statistics, vision, sound) and random modelling (computational statistics, state-space models, control theory).
+Graduated from an MSc. Engineer degree (French « Grandes Écoles ») and a Research Master (MVA), I am passionated for mathematics and its applications, especially in artificial intelligence (deep learning, reinforcement learning, machine perception, vision, sound) and random modelling (computational statistics, state-space models, control theory).
 
 Feel free to discover my favorites personnal or group projects in my repositories.
 I am open to discussion.
