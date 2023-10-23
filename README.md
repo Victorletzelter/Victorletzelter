@@ -1,9 +1,10 @@
 # Hello, welcome to my github repository ! 
 
-Graduated from an MSc. Engineer degree (French « Grandes Écoles ») and a Research Master (MVA), I am passionated for mathematics and its applications, especially in artificial intelligence (deep learning, reinforcement learning, machine perception, vision, sound) and random modelling (computational statistics, state-space models, control theory).
+Graduated from an MSc. Engineer degree (French « Grandes Écoles ») and a Research Master (MVA), I am passionated for mathematics and its applications, especially in artificial intelligence (deep learning, reinforcement learning, machine perception, vision, sound) and random modelling (computational statistics, state-space models, stochastic calculus).
+
+I am currently a Ph.D. student at Télécom Paris and Valeo.ai and my research focuses on several problems related to distribution learning, uncertainty estimation and domain adaptation for complex tasks. 
 
 Feel free to discover my favorites personnal or group projects in my repositories.
-I am open to discussion.
 
 ### Languages :
 
