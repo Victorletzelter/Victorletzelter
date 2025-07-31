@@ -1,4 +1,4 @@
-### Hi! I am Victor
+# Hi! I am Victor
 
 I am passionate about mathematics and its applications, especially in artificial intelligence (deep learning in theory and practice) and random modeling (computational statistics, uncertainty quantification).
 
