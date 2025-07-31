@@ -1,28 +1,5 @@
-# Hello, welcome to my github repository ! 
+### Hi! I am Victor
 
-Graduated from an MSc. Engineer degree (French « Grandes Écoles ») and a Research Master (MVA), I am passionated for mathematics and its applications, especially in artificial intelligence (deep learning, reinforcement learning, machine perception, vision, sound) and random modelling (computational statistics, state-space models, stochastic calculus).
+I am passionate about mathematics and its applications, especially in artificial intelligence (deep learning in theory and practice) and random modeling (computational statistics, uncertainty quantification).
 
-I am currently a Ph.D. student at Télécom Paris and Valeo.ai and my research focuses on several problems related to distribution learning, uncertainty estimation and domain adaptation for complex tasks, especially with audio data. 
-
-Feel free to discover my favorites personnal or group projects in my repositories.
-
-### Languages :
-
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-### ML/DL Frameworks :
-
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-
-<!---
-Victorletzelter/Victorletzelter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am currently a Ph.D. student at Télécom Paris and Valeo.ai. My research focuses on learning under ambiguity and uncertainty. More specifically, I study methods for learning with multiple hypotheses from ambiguous signals such as audio, text, visual data, and time series.
